@@ -7,6 +7,7 @@
 ## 🧠 Tecnologias
 - C#
 - .NET Core / ASP.NET Core
+- JWT Bearer Token
 - Entity Framework
 - SQL Server
 - Git & GitHub
